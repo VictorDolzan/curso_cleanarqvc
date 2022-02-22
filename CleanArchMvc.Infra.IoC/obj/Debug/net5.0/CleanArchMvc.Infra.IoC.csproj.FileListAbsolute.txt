@@ -1,0 +1,12 @@
+/home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/CleanArchMvc.Infra.IoC/bin/Debug/net5.0/CleanArchMvc.Infra.IoC.deps.json
+/home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/CleanArchMvc.Infra.IoC/bin/Debug/net5.0/CleanArchMvc.Infra.IoC.dll
+/home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/CleanArchMvc.Infra.IoC/bin/Debug/net5.0/ref/CleanArchMvc.Infra.IoC.dll
+/home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/CleanArchMvc.Infra.IoC/bin/Debug/net5.0/CleanArchMvc.Infra.IoC.pdb
+/home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/CleanArchMvc.Infra.IoC/obj/Debug/net5.0/CleanArchMvc.Infra.IoC.csproj.AssemblyReference.cache
+/home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/CleanArchMvc.Infra.IoC/obj/Debug/net5.0/CleanArchMvc.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+/home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/CleanArchMvc.Infra.IoC/obj/Debug/net5.0/CleanArchMvc.Infra.IoC.AssemblyInfoInputs.cache
+/home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/CleanArchMvc.Infra.IoC/obj/Debug/net5.0/CleanArchMvc.Infra.IoC.AssemblyInfo.cs
+/home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/CleanArchMvc.Infra.IoC/obj/Debug/net5.0/CleanArchMvc.Infra.IoC.csproj.CoreCompileInputs.cache
+/home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/CleanArchMvc.Infra.IoC/obj/Debug/net5.0/CleanArchMvc.Infra.IoC.dll
+/home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/CleanArchMvc.Infra.IoC/obj/Debug/net5.0/ref/CleanArchMvc.Infra.IoC.dll
+/home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/CleanArchMvc.Infra.IoC/obj/Debug/net5.0/CleanArchMvc.Infra.IoC.pdb

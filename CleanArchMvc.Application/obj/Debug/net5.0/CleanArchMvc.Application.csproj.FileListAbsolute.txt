@@ -1,0 +1,12 @@
+/home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/CleanArchMvc.Application/bin/Debug/net5.0/CleanArchMvc.Application.deps.json
+/home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/CleanArchMvc.Application/bin/Debug/net5.0/CleanArchMvc.Application.dll
+/home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/CleanArchMvc.Application/bin/Debug/net5.0/ref/CleanArchMvc.Application.dll
+/home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/CleanArchMvc.Application/bin/Debug/net5.0/CleanArchMvc.Application.pdb
+/home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/CleanArchMvc.Application/obj/Debug/net5.0/CleanArchMvc.Application.csproj.AssemblyReference.cache
+/home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/CleanArchMvc.Application/obj/Debug/net5.0/CleanArchMvc.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/CleanArchMvc.Application/obj/Debug/net5.0/CleanArchMvc.Application.AssemblyInfoInputs.cache
+/home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/CleanArchMvc.Application/obj/Debug/net5.0/CleanArchMvc.Application.AssemblyInfo.cs
+/home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/CleanArchMvc.Application/obj/Debug/net5.0/CleanArchMvc.Application.csproj.CoreCompileInputs.cache
+/home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/CleanArchMvc.Application/obj/Debug/net5.0/CleanArchMvc.Application.dll
+/home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/CleanArchMvc.Application/obj/Debug/net5.0/ref/CleanArchMvc.Application.dll
+/home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/CleanArchMvc.Application/obj/Debug/net5.0/CleanArchMvc.Application.pdb
