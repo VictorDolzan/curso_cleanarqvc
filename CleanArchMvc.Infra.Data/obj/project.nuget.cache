@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Op3c+uxrDqf/0IJwJB0j/zOeQtxx+Fx1rkYgMjUPYpWFX9OBvpB6dSQFV5HeQe4wxINiU3v8ecBulRHSvOAnrA==",
+  "dgSpecHash": "hWZfm5HJqvfb3lE0vBORE3A1/hrFgoD36tR2YXc6w6Fl+6cmQdfYjKusUSdMnnLUSYEWLfe+FC3Mckfb1yq8NQ==",
   "success": true,
   "projectFilePath": "/home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/CleanArchMvc.Infra.Data/CleanArchMvc.Infra.Data.csproj",
   "expectedPackageFiles": [],

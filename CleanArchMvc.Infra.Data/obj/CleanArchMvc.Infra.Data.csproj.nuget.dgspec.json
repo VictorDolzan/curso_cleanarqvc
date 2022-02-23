@@ -4,6 +4,58 @@
     "/home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/CleanArchMvc.Infra.Data/CleanArchMvc.Infra.Data.csproj": {}
   },
   "projects": {
+    "/home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/CleanArchMvc.Domain/CleanArchMvc.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/CleanArchMvc.Domain/CleanArchMvc.Domain.csproj",
+        "projectName": "CleanArchMvc.Domain",
+        "projectPath": "/home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/CleanArchMvc.Domain/CleanArchMvc.Domain.csproj",
+        "packagesPath": "/home/victor/.nuget/packages/",
+        "outputPath": "/home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/CleanArchMvc.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/victor/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.405/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/CleanArchMvc.Infra.Data/CleanArchMvc.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -25,7 +77,11 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "/home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/CleanArchMvc.Domain/CleanArchMvc.Domain.csproj": {
+                "projectPath": "/home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/CleanArchMvc.Domain/CleanArchMvc.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
