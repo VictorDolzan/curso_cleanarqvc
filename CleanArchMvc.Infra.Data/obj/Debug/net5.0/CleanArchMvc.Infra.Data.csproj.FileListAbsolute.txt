@@ -10,3 +10,9 @@
 /home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/CleanArchMvc.Infra.Data/obj/Debug/net5.0/CleanArchMvc.Infra.Data.dll
 /home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/CleanArchMvc.Infra.Data/obj/Debug/net5.0/ref/CleanArchMvc.Infra.Data.dll
 /home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/CleanArchMvc.Infra.Data/obj/Debug/net5.0/CleanArchMvc.Infra.Data.pdb
+/home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/CleanArchMvc.Infra.Data/bin/Debug/net5.0/CleanArchMvc.Infra.Data.runtimeconfig.json
+/home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/CleanArchMvc.Infra.Data/bin/Debug/net5.0/CleanArchMvc.Infra.Data.runtimeconfig.dev.json
+/home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/CleanArchMvc.Infra.Data/bin/Debug/net5.0/CleanArchMvc.Domain.dll
+/home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/CleanArchMvc.Infra.Data/bin/Debug/net5.0/CleanArchMvc.Domain.pdb
+/home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/CleanArchMvc.Infra.Data/obj/Debug/net5.0/CleanArchMvc.Infra.Data.csproj.CopyComplete
+/home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/CleanArchMvc.Infra.Data/obj/Debug/net5.0/CleanArchMvc.Infra.Data.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+/home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/obj/Debug/net5.0/curso_cleanarqvc.csproj.AssemblyReference.cache
+/home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/obj/Debug/net5.0/curso_cleanarqvc.GeneratedMSBuildEditorConfig.editorconfig
+/home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/obj/Debug/net5.0/curso_cleanarqvc.AssemblyInfoInputs.cache
+/home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/obj/Debug/net5.0/curso_cleanarqvc.AssemblyInfo.cs
+/home/victor/Documents/Udemy/Clean Architecture/curso_cleanarqvc/obj/Debug/net5.0/curso_cleanarqvc.csproj.CoreCompileInputs.cache
